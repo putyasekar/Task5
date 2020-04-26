@@ -1,0 +1,142 @@
+<resources>
+    <string name="app_name">Task5</string>
+    <string-array name="title">
+        <item>Soto Kudus</item>
+        <item>Rendang</item>
+        <item>Sate</item>
+        <item>Gado Gado</item>
+        <item>Bika Ambon</item>
+        <item>Pempek</item>
+        <item>Nasi Goreng</item>
+        <item>Bakso</item>
+        <item>Kerak Telor</item>
+        <item>Gudeg</item>
+        <item>Sop Buntut</item>
+        <item>Rawon</item>
+        <item>Opor</item>
+        <item>Soto</item>
+        <item>Pepes</item>
+        <item>Gorengan</item>
+        <item>Soto Kudus 2</item>
+        <item>Soto Kudus 3</item>
+        <item>Soto Kudus 4</item>
+        <item>Soto Kudus 5</item>
+    </string-array>
+
+    <string-array name="desc">
+        <item>Soto Kudus Lagi</item>
+        <item>Dilihat dari gambarnya saja rendang sudah lezat, apalagi saat kamu mencicipinya. Kelezatan rendang sudah dikenal dunia. Bahan utama rendang adalah daging. Dimasak dengan aneka bumbu khas Indonesia, rasa rendang menjadi tiada duanya. Banyak orang yang langsung ketagihan pada saat pertama kali mereka mencicipi rendang.</item>
+        <item>Sate, siapa yang tidak suka makan sate? Makanan yang menggunakan tusuk bambu dan menghasilkan bau harum saat dibakar ini adalah makanan kesukaan banyak orang Indonesia. Jenis sate ada bermacam-macam, seperti sate ayam, babi dan kambing. Gambar makanan sate di atas sudah membuatmu meneteskan air liur, kan?</item>
+        <item>Gado-gado adalah makanan khas Indonesia yang sehat. Kamu bisa lihat dari gambar makanan di atas, isinya adalah sayur-sayuran. Dicampur dengan bumbu kacang super lezat membuat gado-gado menjadi salah satu makanan berisi sayuran yang paling banyak disukai.</item>
+        <item>Ada kue khas Indonesia yang rasanya disukai banyak orang. Nama kue tersebut adalah bika ambon. Bika ambon terbuat dari bahan-bahan utama pembuat kue, seperti telur, gula dan santan.</item>
+        <item>Apa jadinya jika ikan dan tepung diadon menjadi satu lalu digoreng? Pempek adalah sebutan untuk makanan ini. Pempek biasanya dimakan menggunakan bumbunya yang terbuat dari cuka yang dicampur dengan gula. Jika gambar makanan di atas sudah mampu membuatmu lapar, maka bayangkan betapa menggiurkan rasanya.</item>
+        <item>Nasi goreng juga ada di negara-negara lain, namun bagaimanapun juga nasi goreng Indonesia terasa lebih enak di lidah karena memang dimasak menggunakan bumbu-bumbu khas Indonesia yang sangat kaya.</item>
+        <item>Bakso, si makanan berbentuk bulat ini rasanya sungguh-sungguh lezat. Makan bakso setiap hari pun tidak masalah. Bakso yang umumnya dikonsumsi adalah bakso sapi dan bakso ikan. Tergantung selera masing-masing, namun menurut kami bakso sapi adalah yang ternikmat.</item>
+        <item>Gambar makanan apa yang berada di nomor delapan? Ya, kerak telur, jajanan khas Indonesia, lebih tepatnya Betawi. Kerak telur adalah campuran antara beras ketan dan telur ayam atau telur bebek yang kemudian dicampur dengan bumbu-bumbu.</item>
+        <item>Makanan khas Indonesia yang bernama gudeg ini juga wajib kamu cicipi. Gudeg merupakan sayur nangka muda yang dimasak dengan gula merah dan santan. Agar lebih lezat, gudeg biasanya dimakan bersama telur rebus, ayam goreng dan beberapa lauk lainnya.</item>
+        <item>Siapa sangka kalau buntut sapi ternyata enak jika dimasak dengan cinta dan bumbu yang tepat. Ya, memang seperti itulah kenyataannya. Kelezatan sop buntut terkenal bukan hanya di Indonesia, namun juga di luar negeri.</item>
+        <item>Rawon adalah makanan berkuah hitam pekat yang berasal dari provinsi Jawa Timur. Terbuat dari dua bahan utama, yaitu daging sapi dan kluwek, Rawon paling nikmat disantap hangat-hangat.</item>
+        <item>Makanan santan dengan isi kentang, telur dan ayam yang sangat enak ini dinamakan opor. Saat sedang berada di luar negeri, apalagi di negara yang makanannya kurang sesuai dengan lidah, pasti kamu akan terbayang-bayang opor.</item>
+        <item>Daging dan sayuran yang bersatu padu di dalam kuah dengan bumbu lezat adalah makanan khas Indonesia yang dinamai soto. Ada banyak jenis soto di Indonesia, tergantung asal kotanya. Walaupun jenisnya ada banyak, semuanya mampu menggoyang lidah.</item>
+        <item>Setelah melihat gambar makanan pepes di atas, bagaimana pendapatmu? Apakah terlihat menarik untuk dicoba? Jangan tertipu, karena pepes rasanya enak walaupun tidak terlihat enak. Karena dibungkus dengan daun pisang, pepes mengeluarkan aroma yang sangat sedap. Isi pepes itu sendiri bisa bermacam-macam, misalnya saja tahu, telur, ayam, ataupun jamur.</item>
+        <item>Masyarakat Indonesia sudah tahu bahwa gorengan itu merupakan makanan yang kurang sehat untuk tubuh, namun tetap saja gorengan adalah makanan yang sudah menjadi bagian dari kehidupan banyak penduduk Indonesia. Apa saja bisa dijadikan gorengan, namun yang umum adalah pisang, tempe, bakwan, ubi dan singkong.</item>
+        <item>Soto Kudus Lagi 2</item>
+        <item>Soto Kudus lagi 3</item>
+        <item>Soto Kudus lagi 4</item>
+        <item>Soto Kudus lagi 5</item>
+    </string-array>
+
+    <string-array name="date">
+        <item>Mon,  27 Januari 2020 - Seterusnya</item>
+        <item>Mon,  27 Januari 2020 - Seterusnya</item>
+        <item>Mon,  27 Januari 2020 - Seterusnya</item>
+        <item>Mon,  27 Januari 2020 - Seterusnya</item>
+        <item>Mon,  27 Januari 2020 - Seterusnya</item>
+        <item>Mon,  27 Januari 2020 - Seterusnya</item>
+        <item>Mon,  27 Januari 2020 - Seterusnya</item>
+        <item>Mon,  27 Januari 2020 - Seterusnya</item>
+        <item>Mon,  27 Januari 2020 - Seterusnya</item>
+        <item>Mon,  27 Januari 2020 - Seterusnya</item>
+        <item>Mon,  27 Januari 2020 - Seterusnya</item>
+        <item>Mon,  27 Januari 2020 - Seterusnya</item>
+        <item>Mon,  27 Januari 2020 - Seterusnya</item>
+        <item>Mon,  27 Januari 2020 - Seterusnya</item>
+        <item>Mon,  27 Januari 2020 - Seterusnya</item>
+        <item>Mon,  27 Januari 2020 - Seterusnya</item>
+        <item>Mon,  27 Januari 2020 - Seterusnya</item>
+        <item>Mon,  27 Januari 2020 - Seterusnya</item>
+        <item>Mon,  27 Januari 2020 - Seterusnya</item>
+        <item>Mon,  27 Januari 2020 - Seterusnya</item>
+    </string-array>
+
+    <string-array name="place">
+        <item> Indonesia</item>
+        <item> Indonesia</item>
+        <item> Indonesia</item>
+        <item> Indonesia</item>
+        <item> Indonesia</item>
+        <item> Indonesia</item>
+        <item> Indonesia</item>
+        <item> Indonesia</item>
+        <item> Indonesia</item>
+        <item> Indonesia</item>
+        <item> Indonesia</item>
+        <item> Indonesia</item>
+        <item> Indonesia</item>
+        <item> Indonesia</item>
+        <item> Indonesia</item>
+        <item> Indonesia</item>
+        <item> Indonesia</item>
+        <item> Indonesia</item>
+        <item> Indonesia</item>
+        <item> Indonesia</item>
+
+
+    </string-array>
+
+    <string-array name="type">
+        <item> Appetizer</item>
+        <item> Appetizer</item>
+        <item> Appetizer</item>
+        <item> Appetizer</item>
+        <item> Appetizer</item>
+        <item> Appetizer</item>
+        <item> Appetizer</item>
+        <item> Appetizer</item>
+        <item> Appetizer</item>
+        <item> Appetizer</item>
+        <item> Appetizer</item>
+        <item> Appetizer</item>
+        <item> Appetizer</item>
+        <item> Appetizer</item>
+        <item> Appetizer</item>
+        <item> Appetizer</item>
+        <item> Appetizer</item>
+        <item> Appetizer</item>
+        <item> Appetizer</item>
+        <item> Appetizer</item>
+    </string-array>
+
+    <array name="image">
+        <item>@drawable/kudus_soto</item>
+        <item>@drawable/rendang</item>
+        <item>@drawable/sate</item>
+        <item>@drawable/gado_gado</item>
+        <item>@drawable/bika_ambon</item>
+        <item>@drawable/pempek</item>
+        <item>@drawable/nasi_goreng</item>
+        <item>@drawable/bakso</item>
+        <item>@drawable/kerak_telor</item>
+        <item>@drawable/gudeg</item>
+        <item>@drawable/sop_buntut</item>
+        <item>@drawable/rawon</item>
+        <item>@drawable/opor</item>
+        <item>@drawable/soto</item>
+        <item>@drawable/pepes</item>
+        <item>@drawable/gorengan</item>
+        <item>@drawable/kudus_soto</item>
+        <item>@drawable/kudus_soto</item>
+        <item>@drawable/kudus_soto</item>
+        <item>@drawable/kudus_soto</item>
+    </array>
+</resources>
